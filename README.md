@@ -32,3 +32,5 @@ Features
 Image Upload: Users can upload images in JPG or PNG format.
 Real-Time Classification: The model predicts the traffic sign class based on the uploaded image.
 User-Friendly Interface: A simple interface to enhance user experience.
+
+![image](https://github.com/user-attachments/assets/3dcfe2fc-66e9-4fc4-abe2-75b3a5996757)
